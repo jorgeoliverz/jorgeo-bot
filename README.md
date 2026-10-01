@@ -35,7 +35,7 @@ I'm currently studying a **MSc in AI, Data and Cloud at EDEM** 🐠
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="http://www.linkedin.com/in/jorge-oliver-zarcero">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
