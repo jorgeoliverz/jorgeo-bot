@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hey, everyone! My name is Jorge. 👋
 
-<!--
-**jorgeo-bot/jorgeo-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=220&section=header&text=Jorge&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Data%20%7C%20Cloud&descAlignY=55&descSize=22" />
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  🤖 AI · 📊 Data · ☁️ Cloud
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0369A1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-0284C7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-38BDF8?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm currently studying a **MSc in AI, Data and Cloud at EDEM** 🐠
+
+---
+
+## 🚀 Areas of Interest
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🤖 Artificial Intelligence</h3>
+      Machine Learning<br>
+      Deep Learning<br>
+      Generative AI
+    </td>
+    <td align="center" width="33%">
+      <h3>📊 Data</h3>
+      Data Engineering<br>
+      Data Science
+    </td>
+    <td align="center" width="33%">
+      <h3>☁️ Cloud</h3>
+      Cloud Architecture<br>
+      Distributed Systems<br>
+      Data Platforms
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1" />
+</p>
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-0284C7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Turning data into intelligence, one project at a time.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0369A1,100:0F172A&height=120&section=footer" />
+</p>
+
+
