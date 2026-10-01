@@ -25,37 +25,11 @@ I'm currently studying a **MSc in AI, Data and Cloud at EDEM** 🐠
 
 ---
 
-## 🚀 Areas of Interest
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🤖 Artificial Intelligence</h3>
-      Machine Learning<br>
-      Deep Learning<br>
-      Generative AI
-    </td>
-    <td align="center" width="33%">
-      <h3>📊 Data</h3>
-      Data Engineering<br>
-      Data Science
-    </td>
-    <td align="center" width="33%">
-      <h3>☁️ Cloud</h3>
-      Cloud Architecture<br>
-      Distributed Systems<br>
-      Data Platforms
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jorgeo-bot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeo-bot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1" />
 </p>
 
 ## 📫 Let's Connect
